@@ -1,24 +1,44 @@
-# README
+# Hello Rails Back End
+This is a demo project where I have implemented server-side for api creation using RoR.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Front-end Repo: [Link](https://github.com/Yorsyboy/hello-react-front-end/pull/1)
 
-Things you may want to cover:
+# Built With
+- Ruby on Rails
+- Postgres
+- Rubocop
+ 
+# Getting Started
+To get local copy of the project and run
 
-* Ruby version
+- git clone `https://github.com/Yorsyboy/hello-react-back-end.git`
+- cd hello-rails-react
+- rails s
 
-* System dependencies
+# Database Setup
 
-* Configuration
+- rails db:create
+- rails db:migrate
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Toyosi Taiwo**
 
-* How to run the test suite
+- GitHub: [@Yorsyboy](https://github.com/Yorsyboy)
+- Twitter: [@tboytaiwo](https://twitter.com/Tboytaiwo)
+- LinkedIn: [Toyosi Taiwo](https://linkedin.com/in/taiwo-toyosi)
+- LinkedIn: [@Tufahel-Ahmed](https://www.linkedin.com/in/tufahel-ahmed/)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
